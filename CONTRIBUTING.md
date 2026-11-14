@@ -1,7 +1,9 @@
 # Contributing
 
-Issues and feature requests for every overpressure repository go to
-[overpressure/overpressure](https://github.com/overpressure/overpressure/issues/new/choose); its
+Issues and feature requests go to the repository they concern: a headset's to its own
+([overpressure/phoenix](https://github.com/overpressure/phoenix/issues/new/choose) for the PICO 4), the
+installer's, the tooling's and new headsets to
+[overpressure/overpressure](https://github.com/overpressure/overpressure/issues/new/choose), whose
 [CONTRIBUTING.md](https://github.com/overpressure/overpressure/blob/main/CONTRIBUTING.md) has the rules.
 
 Changes come as pull requests against the default branch, titled as a conventional commit (`feat:`, `fix:`,
