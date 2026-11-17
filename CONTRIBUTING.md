@@ -7,4 +7,5 @@ installer's, the tooling's and new headsets to
 [CONTRIBUTING.md](https://github.com/overpressure/overpressure/blob/main/CONTRIBUTING.md) has the rules.
 
 Changes come as pull requests against the default branch, titled as a conventional commit (`feat:`, `fix:`,
-`docs:`). The branch takes no direct pushes; a pull request is merged once its checks pass.
+`docs:`). The branch takes no direct pushes; a pull request is merged once its checks pass and, where it touches
+shared code, its code owners approved ([GOVERNANCE.md](GOVERNANCE.md)).
