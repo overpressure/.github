@@ -13,3 +13,6 @@ made in issues and pull requests, so link the issue when you discuss one there.
 Changes come as pull requests against the default branch, titled as a conventional commit (`feat:`, `fix:`,
 `docs:`). The branch takes no direct pushes; a pull request is merged once its checks pass and, where it touches
 shared code, its code owners approved ([GOVERNANCE.md](GOVERNANCE.md)).
+
+Requests and changes that get around a license, DRM or a store, or pass on other people's games, apps or files,
+are not taken: [THIRD-PARTY-CONTENT.md](THIRD-PARTY-CONTENT.md).
