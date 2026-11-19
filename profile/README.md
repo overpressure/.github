@@ -16,3 +16,6 @@
 Supported: PICO 4 (Snapdragon XR2). Issues of a headset go to its repository
 ([overpressure/phoenix](https://github.com/overpressure/phoenix/issues/new/choose)); the installer's, feature
 requests and new headsets to [overpressure/overpressure](https://github.com/overpressure/overpressure/issues/new/choose).
+
+**Chat:** [#overpressure:matrix.org](https://matrix.to/#/#overpressure:matrix.org), a Matrix space with rooms for
+help, each headset and development. Questions and talk go there; bugs and features stay in the issues.
