@@ -67,8 +67,8 @@ No released tag moves or disappears.
    when the SoC is new) and the headset's room on Matrix, then invites the people: last, since GitHub mails the
    invitation at once.
 3. `core` adds the headset everywhere: its layer branch, its line in `.github/layers`, its rulesets and tag rule in
-   linux, its folders and CODEOWNERS entries in packages; after its first release, its entry in overpressure's
-   catalogue and CI.
+   linux, its folders and CODEOWNERS entries in packages, its row in the organization's profile
+   ([profile/README.md](profile/README.md)); after its first release, its entry in overpressure's catalogue and CI.
 4. The headset follows
    [docs/adding-a-headset.md](https://github.com/overpressure/overpressure/blob/main/docs/adding-a-headset.md),
    whose [organization's part](https://github.com/overpressure/overpressure/blob/main/docs/adding-a-headset.md#the-organizations-part)
