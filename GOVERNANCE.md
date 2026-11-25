@@ -64,10 +64,11 @@ No released tag moves or disappears.
    [overpressure/overpressure](https://github.com/overpressure/overpressure/issues): the headset, its SoC, the
    people, where their work is today.
 2. An owner creates `overpressure/<codename>`, the team `<codename>` and their rulesets (and a `soc-<soc>` team
-   when the SoC is new) and the headset's room on Matrix, then invites the people: last, since GitHub mails the
-   invitation at once.
-3. `core` adds the headset everywhere: its layer branch, its line in `.github/layers`, its rulesets and tag rule in
-   linux, its folders and CODEOWNERS entries in packages, its row in the organization's profile
+   when the SoC is new), the headset's room on Matrix with its icon and the repository's social preview, then
+   invites the people: last, since GitHub mails the invitation at once.
+3. `core` adds the headset everywhere: its room's icon and its social card in brand, its layer branch, its line in
+   `.github/layers`, its rulesets and tag rule in linux, its folders and CODEOWNERS entries in packages, its row in
+   the organization's profile
    ([profile/README.md](profile/README.md)); after its first release, its entry in overpressure's catalogue and CI.
 4. The headset follows
    [docs/adding-a-headset.md](https://github.com/overpressure/overpressure/blob/main/docs/adding-a-headset.md),
