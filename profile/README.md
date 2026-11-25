@@ -9,11 +9,12 @@
 | --- | --- |
 | [overpressure](https://github.com/overpressure/overpressure) | The installer and the host tooling, which download each headset's release. Start here: [its releases](https://github.com/overpressure/overpressure/releases) (a beta, marked *Pre-release*, while there is no stable release). |
 | [phoenix](https://github.com/overpressure/phoenix) | The PICO 4: its images, tooling and releases, one headset module. |
+| [hollywood](https://github.com/overpressure/hollywood) | The Meta Quest 2: its images, tooling and releases, one headset module; in development, nothing to install yet. |
 | [packages](https://github.com/overpressure/packages) | The Arch packages of the headsets' system, in layers, and each headset's image definition. |
 | [linux](https://github.com/overpressure/linux) | Valve's Steam Frame kernel with the project's changes, one branch per layer and headset. |
 | [builder](https://github.com/overpressure/builder) | The build image every build runs in, pinned by digest. |
 
-Supported: PICO 4 (Snapdragon XR2). Issues of a headset go to its repository
+Supported: PICO 4 (Snapdragon XR2); in development: Meta Quest 2 (Snapdragon XR2). Issues of a headset go to its repository
 ([overpressure/phoenix](https://github.com/overpressure/phoenix/issues/new/choose)); the installer's, feature
 requests and new headsets to [overpressure/overpressure](https://github.com/overpressure/overpressure/issues/new/choose).
 
