@@ -13,6 +13,7 @@
 | [packages](https://github.com/overpressure/packages) | The Arch packages of the headsets' system, in layers, and each headset's image definition. |
 | [linux](https://github.com/overpressure/linux) | Valve's Steam Frame kernel with the project's changes, one branch per layer and headset. |
 | [builder](https://github.com/overpressure/builder) | The build image every build runs in, pinned by digest. |
+| [matrix](https://github.com/overpressure/matrix) | The Matrix space's settings: its rooms, their permissions, icons and pinned texts, kept so by Goggles, the project's bot, which also announces releases and new headsets. |
 
 Supported: PICO 4 (Snapdragon XR2); in development: Meta Quest 2 (Snapdragon XR2). Issues of a headset go to its repository
 ([overpressure/phoenix](https://github.com/overpressure/phoenix/issues/new/choose)); the installer's, feature
