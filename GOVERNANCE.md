@@ -42,8 +42,8 @@ only, the green `ci` stays required). Once `core` has two, every shared change g
 
 | Tags | Who |
 | --- | --- |
-| overpressure `v*`, builder `YYYY.MM.DD*` | `core` |
-| overpressure/&lt;codename&gt; `v*` | that headset's team |
+| overpressure `YYYY.M.PATCH` (`v*` before), builder `YYYY.MM.DD*` | `core` |
+| overpressure/&lt;codename&gt; `YYYY.M.PATCH` (`v*` before) | that headset's team |
 | linux `<codename>/7.2-N` | that headset's team, only its own prefix; other tags `core` |
 | packages | anyone with write access, by the release workflow: *Actions*, *Packages*, *Run workflow* on `main` with one line on what it brings. It picks the next date tag itself; a tag pushed by hand releases nothing. A release changes no headset until that headset moves its pin. |
 
