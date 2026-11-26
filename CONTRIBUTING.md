@@ -10,6 +10,11 @@ Questions, ideas and help with a first change: the
 [Development room](https://matrix.to/#/#overpressure-dev:matrix.org) of the project's Matrix space. Decisions are
 made in issues and pull requests, so link the issue when you discuss one there.
 
+Larger changes start with an issue or a word in the Development room, before the code: a new feature or component,
+and any change to a headset's maintenance system, the installer's writes or the headset interface. A pull request
+that arrives without that and does not fit the project's direction is closed without a review. Fixes and small
+changes need no announcement.
+
 Changes come as pull requests against the default branch, titled as a conventional commit (`feat:`, `fix:`,
 `docs:`). The branch takes no direct pushes; a pull request is merged once its checks pass and, where it touches
 shared code, its code owners approved ([GOVERNANCE.md](GOVERNANCE.md)).
